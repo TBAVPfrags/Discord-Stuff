@@ -69,7 +69,7 @@ If you would like a transparent color, i suggest using rgba(). format is rgba(re
     
     --ui-opacity: 1;
  
-    --floaty-background-image: url("https://w.wallhaven.cc/full/ex/wallhaven-exo2gr.jpg");
+    --floaty-background-image: url("0");
     --floaty-background-color: rgba(var(--black-500-rgb), 0.4);
     --floaty-background-blur: unset;
     
